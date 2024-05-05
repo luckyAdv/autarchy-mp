@@ -6,7 +6,8 @@ Instalare script:
 5. Deschide un terminal (pentru mine PowerShell)
 6. Intra in folderul dezarhivat in terminal comanda (EX pentru mine) cd:E\autarchy-mp
 7. Tasteaza npm i
-8. Have fun scripting !
+8. Intra in Packages > MySQL > mysql.js schimba datele pentru baza de date
+9. Have fun scripting !
 
 
 
